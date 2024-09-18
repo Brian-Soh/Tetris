@@ -4,9 +4,10 @@ Tetris has been a game that I have loved since childhood. From first discovering
 
 In this project I:
 - Demonstrated my understading of encapsulation through deciding the scope of fields and methods
-- Leveraged stack and heap memory to reduce runtime
+- Leveraged knowledge of stack and heap memory to reduce runtime
 - Managed real-time user inout by translating keypresses to block movements
 - Integrated multiple algorithms such as board generation, collision detection, and future path generation
+- Implemented several methods from the Raylib Development Library to create a user interface and control tick-rate
 
 ## Controls
 Move Left: left arrow\
