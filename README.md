@@ -4,4 +4,5 @@
 ## How to Play
 - Download the project as a zip file
 - Extract all the files
-- Open the project through clicking the 'main' file
+- Download Raylib Development Library
+- Open the project by clicking the 'main.code-workspace' file
