@@ -35,6 +35,8 @@ void Game::lockBlock()
     currentBlock = nextBlock;
     if (blockCollision())
     {
+        currentBlock.Move(-1, 0);
+        Draw();
         gameOver = true;
     }
     nextBlock = getRandomBlock();
