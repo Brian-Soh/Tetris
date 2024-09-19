@@ -1,29 +1,25 @@
-# Raylib-CPP-Starter-Template-for-VSCODE-V2
-Raylib C++ Starter Template for Visual Studio Code on Windows.
-This demo project contains a bouncing ball raylib example program.
-It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
+# Tetris Remake
+## Introduction
+Tetris has been a game that I have loved since childhood. From first discovering Tetris Blitz on my iPad to competing on Jstris with friends during study breaks, it has always been a staple in my game library. Hence, I created this project out of personal interest to reflect my hobbies and apply my knowledge of Object Oriented Progaming in C++. Many features of this project were adapted from this [tutorial](https://m.youtube.com/watch?si=uf-8EqsuYmcLMLbP&v=wVYKG_ch4yM&feature=youtu.be), but I typed every line of code and implemented many additional funtionalities as well. Most notably, the drop block and save block features which are crucial are game mechanics in the aspect of user experience.
 
-# How to use this template
-1. Double click on the main.code-workspace file. This will open the template in VS Code.
-2. From the Explorer Window of VS Code navigate to the src folder and double click on the main.cpp file.
-3. Press F5 on the keyboard to compile and run the program.
+**In this project I:**
+- Demonstrated my understading of encapsulation through deciding the scope of fields and methods
+- Leveraged knowledge of stack and heap memory to reduce runtime
+- Managed real-time user inout by translating keypresses to block movements
+- Integrated multiple algorithms such as board generation, collision detection, and future path generation
+- Implemented several methods from the Raylib Development Library to create a user interface and control tick-rate
 
-# What's changed
-The template now uses folders for better organizion of the files. So, all the source code now lives in the src folder.
+## Controls
+Move Left: left arrow\
+Move Right:	right arrow\
+Soft Drop:	down arrow\
+Hard Drop:	space\
+Rotate 90: up arrow\
+Hold: s
 
-# Video Tutorial
-
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
-
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
-
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
-</p>
+## How to Load Project
+- Download the project as a zip file
+- Extract all the files
+- Download the Raylib Development Library
+- Open the project by clicking the 'main.code-workspace' file
+- Press f5 in any cpp file to play
