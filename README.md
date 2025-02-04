@@ -1,6 +1,6 @@
 # Tetris Remake
 ## Introduction
-Tetris has been a game that I have loved since childhood. From first discovering Tetris Blitz on my iPad to competing on Jstris with friends during study breaks, it has always been a staple in my game library. Hence, I created this project out of personal interest to reflect my hobbies and apply my knowledge of Object Oriented Progaming in C++. Many features of this project were adapted from this [tutorial](https://m.youtube.com/watch?si=uf-8EqsuYmcLMLbP&v=wVYKG_ch4yM&feature=youtu.be), but I typed every line of code and implemented many additional funtionalities as well. Most notably, the drop block and save block features which are crucial in-game mechanics.
+Tetris has been a game that I have loved since childhood. From first discovering Tetris Blitz on my iPad to competing on Jstris with friends during study breaks, it has always been a staple in my game library. Hence, I created this project out of personal interest to reflect my hobbies and apply my knowledge of Object Oriented Progaming in C++. Many features of this project were adapted from this [tutorial](https://m.youtube.com/watch?si=uf-8EqsuYmcLMLbP&v=wVYKG_ch4yM&feature=youtu.be), but I typed every line of code and implemented many additional funtionalities as well. Most notably, the drop block and save block features which are crucial in-game mechanics. Click [here](https://youtu.be/T6r2ouMACZk) for a demo!
 
 **In this project I:**
 - Demonstrated my understading of encapsulation through deciding the scope of fields and methods
